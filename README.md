@@ -1,10 +1,10 @@
-# OptiBot Mini-Clone
+# Incremental Doc Pipeline
 
-A compact customer-support assistant pipeline for OptiSigns Help Center docs. It scrapes Zendesk articles, converts them to Markdown, uploads them to an AI knowledge base, and runs a daily delta job that only uploads new or updated articles.
+A compact customer-support assistant pipeline for Help Center docs. It scrapes articles, converts them to Markdown, uploads them to an AI knowledge base, and runs a daily delta job that only uploads new or updated articles.
 
 ## What is included
 
-- Scraped **100** articles from `support.optisigns.com` using the Zendesk API.
+- Scraped **100** articles from the support domain using the platform API.
 - Converted each article to clean Markdown in `data/articles/<slug>.md`.
 - Uploaded docs programmatically, no UI drag-and-drop:
   - Gemini File API: **100 files**.
@@ -93,13 +93,13 @@ The daily job exits `0` on success.
 Build:
 
 ```powershell
-docker build -t optibot-daily-job .
+docker build -t daily-job-worker .
 ```
 
 Run once:
 
 ```powershell
-docker run --env-file .env -v ${PWD}/data:/app/data -v ${PWD}/logs:/app/logs optibot-daily-job
+docker run --env-file .env -v ${PWD}/data:/app/data -v ${PWD}/logs:/app/logs daily-job-worker
 ```
 
 This runs `python main.py` once and exits.
@@ -154,14 +154,14 @@ How do I add a YouTube video?
 Gemini CLI result was correct and cited:
 
 ```text
-Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns
+Article URL: https://support.example.com/hc/en-us/articles/123456789-How-to-use-YouTube
 ```
 
 Saved Gemini output: `logs/gemini_test_output.txt`.
 
 For final submission, see the screenshot included in the repository showing the assistant answering this question with correct UI formatting and clickable citations.
 
-![OptiBot Screenshot](assets/OptiBot%20Screenshot.jpg)
+![Chatbot Screenshot](assets/OptiBot%20Screenshot.jpg)
 
 ## Deployment
 
