@@ -2,16 +2,6 @@
 
 A compact customer-support assistant pipeline for Help Center docs. It scrapes articles, converts them to Markdown, uploads them to an AI knowledge base, and runs a daily delta job that only uploads new or updated articles.
 
-## What is included
-
-- Scraped **100** articles from the support domain using the platform API.
-- Converted each article to clean Markdown in `data/articles/<slug>.md`.
-- Uploaded docs programmatically, no UI drag-and-drop:
-  - Gemini File API: **100 files**.
-  - OpenAI Vector Store: **100 files**, `0 failed`.
-- Built a local Gemini RAG index with **648 chunks**.
-- Added a daily job in `main.py` that re-scrapes, detects deltas, and uploads only changed files.
-
 ## Setup
 
 ```powershell
