@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-07-04T09:01:24.114174+00:00",
+  "ai_provider": "openai",
+  "scraped_articles": 100,
+  "new_articles": 0,
+  "updated_articles": 0,
+  "unchanged_articles": 100,
+  "uploaded_delta_files": 0,
+  "uploaded_delta_filenames": [],
+  "index_rebuilt": false,
+  "manifest_path": "data\\article_manifest.json",
+  "vector_store_id": "vs_6a48c836fd0c8191b8bc69d355cee632",
+  "finished_at": "2026-07-04T09:03:24.071978+00:00"
+}

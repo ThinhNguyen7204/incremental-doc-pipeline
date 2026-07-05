@@ -1,0 +1,20 @@
+Question:
+How do I add a YouTube video?
+
+Retrieved chunks:
+- How to use YouTube with OptiSigns | https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns | how-to-use-youtube-with-optisigns.md::1
+- How to use YouTube with OptiSigns | https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns | how-to-use-youtube-with-optisigns.md::0
+- How to use YouTube with OptiSigns | https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns | how-to-use-youtube-with-optisigns.md::2
+- What Do I Get With an OptiSigns Free Plan? | https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan | what-do-i-get-with-an-optisigns-free-plan.md::4
+- Roku Release Notes & Limitation | https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation | roku-release-notes-limitation.md::0
+
+Answer:
+To add a YouTube video to OptiSigns, follow these steps:
+
+*   Log on to your OptiSigns portal at app.optisigns.com.
+*   Go to Files/Assets, click on "App," and then select "YouTube."
+*   Enter a **Name** for your YouTube video.
+*   Paste the actual **URL** of your YouTube video. For YouTube Shorts, change the `/shorts/` part of the URL to `/embed/`.
+*   Click Save. You can then assign the newly created YouTube asset to your screen.
+
+Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns

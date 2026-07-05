@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment
+.env
+
+# Data files
+data/raw_articles.json
+data/metadata.json
+data/articles/*.md
+
+# Logs
+logs/*.log
+!logs/aws_cron_run.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Doc
+doc

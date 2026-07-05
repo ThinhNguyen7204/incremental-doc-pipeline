@@ -1,0 +1,911 @@
+{
+  "uploaded_at": "2026-07-04T08:29:32.145293+00:00",
+  "sdk": "google-genai",
+  "articles_dir": "data\\articles",
+  "files_discovered": 100,
+  "files_uploaded_this_run": 100,
+  "files_skipped_this_run": 0,
+  "files_total_tracked": 100,
+  "files": [
+    {
+      "local_filename": "advanced-custom-domain-mapping.md",
+      "gemini_name": "files/0f0zb2smlzki",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/0f0zb2smlzki",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:41.896598+00:00"
+    },
+    {
+      "local_filename": "advanced-proof-of-play-or-playback-report.md",
+      "gemini_name": "files/h35ktg5uiwwm",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/h35ktg5uiwwm",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:23.466002+00:00"
+    },
+    {
+      "local_filename": "ai-camera-app-quick-start.md",
+      "gemini_name": "files/bh78ept9abq8",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/bh78ept9abq8",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:43.067947+00:00"
+    },
+    {
+      "local_filename": "amazon-firestick.md",
+      "gemini_name": "files/6vb1p8197w74",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/6vb1p8197w74",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:11.747901+00:00"
+    },
+    {
+      "local_filename": "amazon-tv-firestick-troubleshooting-guide.md",
+      "gemini_name": "files/qea6wccqw5e7",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/qea6wccqw5e7",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:48.457190+00:00"
+    },
+    {
+      "local_filename": "assign-default-content-for-schedules.md",
+      "gemini_name": "files/n4t7bfzdecx3",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/n4t7bfzdecx3",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:24.582681+00:00"
+    },
+    {
+      "local_filename": "brightsign-players.md",
+      "gemini_name": "files/apm4gyfj1ptw",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/apm4gyfj1ptw",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:36.690221+00:00"
+    },
+    {
+      "local_filename": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md",
+      "gemini_name": "files/gz8kh10ihk4v",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/gz8kh10ihk4v",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:52.106372+00:00"
+    },
+    {
+      "local_filename": "chromeos-pwa-instructions.md",
+      "gemini_name": "files/s7rw2ft7xf7u",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/s7rw2ft7xf7u",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:39.628760+00:00"
+    },
+    {
+      "local_filename": "connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
+      "gemini_name": "files/tpbr62uapgvr",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/tpbr62uapgvr",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:34.639448+00:00"
+    },
+    {
+      "local_filename": "connect-google-meet-hardware-to-optisigns-digital-signage.md",
+      "gemini_name": "files/icajwbaq88bo",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/icajwbaq88bo",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:31.003086+00:00"
+    },
+    {
+      "local_filename": "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
+      "gemini_name": "files/tfv1k9s5ncjg",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/tfv1k9s5ncjg",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:11.323788+00:00"
+    },
+    {
+      "local_filename": "connect-zoom-rooms-to-optisigns-digital-signage.md",
+      "gemini_name": "files/g06i0pvja6mk",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/g06i0pvja6mk",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:42.984214+00:00"
+    },
+    {
+      "local_filename": "creating-and-using-schedules-with-optisigns.md",
+      "gemini_name": "files/uqzef1002skm",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/uqzef1002skm",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:06.102067+00:00"
+    },
+    {
+      "local_filename": "data-residency-and-optisigns.md",
+      "gemini_name": "files/fml9g2xcy9st",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/fml9g2xcy9st",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:17.796448+00:00"
+    },
+    {
+      "local_filename": "designer-20-new-features.md",
+      "gemini_name": "files/1otliowhs5yr",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/1otliowhs5yr",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:20.815682+00:00"
+    },
+    {
+      "local_filename": "does-optisigns-offer-non-profiteducation-discount.md",
+      "gemini_name": "files/s177wv0kxpns",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/s177wv0kxpns",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:26.001977+00:00"
+    },
+    {
+      "local_filename": "edit-screen-what-does-each-option-do.md",
+      "gemini_name": "files/pqbt7xz7rotn",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/pqbt7xz7rotn",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:58.635384+00:00"
+    },
+    {
+      "local_filename": "enabling-lock-down-mode-on-touch-screen-devices.md",
+      "gemini_name": "files/t81dzolscez3",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/t81dzolscez3",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:51.694504+00:00"
+    },
+    {
+      "local_filename": "engage-plan-faqs.md",
+      "gemini_name": "files/eibgvacgemn7",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/eibgvacgemn7",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:45.977555+00:00"
+    },
+    {
+      "local_filename": "external-storage-on-optisigns-devices.md",
+      "gemini_name": "files/1h3k9aca1qzg",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/1h3k9aca1qzg",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:14.602715+00:00"
+    },
+    {
+      "local_filename": "guide-for-creating-content-with-optisigns.md",
+      "gemini_name": "files/8ynuo2g5qtj4",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/8ynuo2g5qtj4",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:55.694927+00:00"
+    },
+    {
+      "local_filename": "how-can-i-removedelete-uploaded-files-or-assets.md",
+      "gemini_name": "files/ufnrvt9zmo4r",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/ufnrvt9zmo4r",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:54.428453+00:00"
+    },
+    {
+      "local_filename": "how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calendar-etc-access.md",
+      "gemini_name": "files/shlab0htdvtj",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/shlab0htdvtj",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:09.094819+00:00"
+    },
+    {
+      "local_filename": "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md",
+      "gemini_name": "files/68zkc5bzfahw",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/68zkc5bzfahw",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:45.002384+00:00"
+    },
+    {
+      "local_filename": "how-to-change-account-owners.md",
+      "gemini_name": "files/vb5acpz9yqxj",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/vb5acpz9yqxj",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:33.468288+00:00"
+    },
+    {
+      "local_filename": "how-to-change-time-zone-on-your-fire-stick-device.md",
+      "gemini_name": "files/6gpycwqccupz",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/6gpycwqccupz",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:01.244665+00:00"
+    },
+    {
+      "local_filename": "how-to-clear-cache-on-your-fire-stick-device.md",
+      "gemini_name": "files/8x4zgsdlle01",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/8x4zgsdlle01",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:35.508138+00:00"
+    },
+    {
+      "local_filename": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
+      "gemini_name": "files/0pz36o1lyulc",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/0pz36o1lyulc",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:26.214236+00:00"
+    },
+    {
+      "local_filename": "how-to-create-use-playlists.md",
+      "gemini_name": "files/4k4y5wwv7gmd",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/4k4y5wwv7gmd",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:09.159970+00:00"
+    },
+    {
+      "local_filename": "how-to-display-a-snowflake-dashboard-with-optisigns.md",
+      "gemini_name": "files/xpp172qsf2mz",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/xpp172qsf2mz",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:31.744604+00:00"
+    },
+    {
+      "local_filename": "how-to-display-content-inside-websites-that-require-login.md",
+      "gemini_name": "files/qa0an3dt66id",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/qa0an3dt66id",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:08.783467+00:00"
+    },
+    {
+      "local_filename": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
+      "gemini_name": "files/vcsw1tafnyzd",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/vcsw1tafnyzd",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:02.460210+00:00"
+    },
+    {
+      "local_filename": "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv.md",
+      "gemini_name": "files/4ydvve3bc0fk",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/4ydvve3bc0fk",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:51.454222+00:00"
+    },
+    {
+      "local_filename": "how-to-factory-reset-your-fire-stick-device.md",
+      "gemini_name": "files/5094ohtptnez",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/5094ohtptnez",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:37.244832+00:00"
+    },
+    {
+      "local_filename": "how-to-get-the-most-out-of-your-digital-signs.md",
+      "gemini_name": "files/gygfxi61fktq",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/gygfxi61fktq",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:06.266615+00:00"
+    },
+    {
+      "local_filename": "how-to-install-an-apk-file-on-your-fire-tv.md",
+      "gemini_name": "files/mdsvtnf04kwx",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/mdsvtnf04kwx",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:19.948492+00:00"
+    },
+    {
+      "local_filename": "how-to-lockdown-ipadsingle-app-with-guided-accessibility.md",
+      "gemini_name": "files/u4pfvp8comlb",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/u4pfvp8comlb",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:29.384170+00:00"
+    },
+    {
+      "local_filename": "how-to-manage-and-edit-your-playlist-settings.md",
+      "gemini_name": "files/trmt4dnwlzek",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/trmt4dnwlzek",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:20.391853+00:00"
+    },
+    {
+      "local_filename": "how-to-manage-sub-account-billing-with-optisigns.md",
+      "gemini_name": "files/vstt8zl3fync",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/vstt8zl3fync",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:14.255884+00:00"
+    },
+    {
+      "local_filename": "how-to-order-a-preconfigured-optisigns-android-player-device.md",
+      "gemini_name": "files/g76halo073ch",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/g76halo073ch",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:49.170654+00:00"
+    },
+    {
+      "local_filename": "how-to-perform-mass-provisioning-with-optisigns.md",
+      "gemini_name": "files/e5y0by5tookw",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/e5y0by5tookw",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:57.332287+00:00"
+    },
+    {
+      "local_filename": "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
+      "gemini_name": "files/8taakutd48pe",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/8taakutd48pe",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:00.444997+00:00"
+    },
+    {
+      "local_filename": "how-to-preview-a-screen.md",
+      "gemini_name": "files/3azpmg2rhyn0",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/3azpmg2rhyn0",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:09.555536+00:00"
+    },
+    {
+      "local_filename": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
+      "gemini_name": "files/6ud8v85iogpj",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/6ud8v85iogpj",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:48.806434+00:00"
+    },
+    {
+      "local_filename": "how-to-set-an-asset-to-live-or-expire-at-specific-time.md",
+      "gemini_name": "files/k64cz5tvck1o",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/k64cz5tvck1o",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:12.180679+00:00"
+    },
+    {
+      "local_filename": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
+      "gemini_name": "files/8kd064z3m5lh",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/8kd064z3m5lh",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:12.088501+00:00"
+    },
+    {
+      "local_filename": "how-to-set-up-audit-log-for-your-account.md",
+      "gemini_name": "files/duw166su7jqg",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/duw166su7jqg",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:05.785635+00:00"
+    },
+    {
+      "local_filename": "how-to-set-up-saml-20-with-optisigns-and-ms-entra-id-formerly-azure-ad.md",
+      "gemini_name": "files/9ka9p8wh08ft",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/9ka9p8wh08ft",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:32.145293+00:00"
+    },
+    {
+      "local_filename": "how-to-set-up-saml-20-with-optisigns-and-okta.md",
+      "gemini_name": "files/2z1wci9w4ncz",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/2z1wci9w4ncz",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:08.836323+00:00"
+    },
+    {
+      "local_filename": "how-to-share-contents-with-other-usersteams.md",
+      "gemini_name": "files/r53l8ztie7ze",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/r53l8ztie7ze",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:38.695337+00:00"
+    },
+    {
+      "local_filename": "how-to-share-playlist-and-folder-with-external-users.md",
+      "gemini_name": "files/zjtsvatlylzd",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/zjtsvatlylzd",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:57.216012+00:00"
+    },
+    {
+      "local_filename": "how-to-start-optisigns-automatically-when-devices-boot-up.md",
+      "gemini_name": "files/eiklodtr0r53",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/eiklodtr0r53",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:03.005570+00:00"
+    },
+    {
+      "local_filename": "how-to-upload-manage-your-files-assets.md",
+      "gemini_name": "files/3edlhgnfmp5u",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/3edlhgnfmp5u",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:47.847053+00:00"
+    },
+    {
+      "local_filename": "how-to-use-icloud-calendar-with-optisigns.md",
+      "gemini_name": "files/a9flc3xn47v6",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/a9flc3xn47v6",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:51.930142+00:00"
+    },
+    {
+      "local_filename": "how-to-use-microsoft-outlook-calendar-with-optisigns.md",
+      "gemini_name": "files/65x6bnzo867c",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/65x6bnzo867c",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:59.245812+00:00"
+    },
+    {
+      "local_filename": "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md",
+      "gemini_name": "files/bgye8eonyta6",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/bgye8eonyta6",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:17.163827+00:00"
+    },
+    {
+      "local_filename": "how-to-use-rss-feeds-with-optisigns.md",
+      "gemini_name": "files/lfeyzj56zush",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/lfeyzj56zush",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:34.331072+00:00"
+    },
+    {
+      "local_filename": "how-to-use-rtsp-streams-on-optisigns-devices.md",
+      "gemini_name": "files/ryab013mpydt",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/ryab013mpydt",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:15.382992+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-cap-alert-app.md",
+      "gemini_name": "files/hiris257q1a5",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/hiris257q1a5",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:20.045107+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-countdown-app.md",
+      "gemini_name": "files/m0l9x0zh8j0e",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/m0l9x0zh8j0e",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:27.710067+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-countup-app.md",
+      "gemini_name": "files/rl2iw5p9e3m0",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/rl2iw5p9e3m0",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:30.659368+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-data-studio-app.md",
+      "gemini_name": "files/eoroqwu2tiuf",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/eoroqwu2tiuf",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:37.256329+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-microsoft-meeting-room-app.md",
+      "gemini_name": "files/eabub2pplyp3",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/eabub2pplyp3",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:55.332733+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-optidev-app.md",
+      "gemini_name": "files/6l2ytturv5h1",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/6l2ytturv5h1",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:29:26.801217+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-optisigns-mobile-admin-app.md",
+      "gemini_name": "files/ry1g59zfg0wf",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/ry1g59zfg0wf",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:54.668739+00:00"
+    },
+    {
+      "local_filename": "how-to-use-the-web-scripting-app.md",
+      "gemini_name": "files/tctc49dnc3ot",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/tctc49dnc3ot",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:15.224159+00:00"
+    },
+    {
+      "local_filename": "how-to-use-website-screenshot-app.md",
+      "gemini_name": "files/0rlkgb8o28u0",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/0rlkgb8o28u0",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:05.282877+00:00"
+    },
+    {
+      "local_filename": "how-to-use-youtube-with-optisigns.md",
+      "gemini_name": "files/j7gq5k07heej",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/j7gq5k07heej",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:22.879227+00:00"
+    },
+    {
+      "local_filename": "kiosk-setup-hub.md",
+      "gemini_name": "files/5m64hczej5jd",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/5m64hczej5jd",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:20.570219+00:00"
+    },
+    {
+      "local_filename": "kiosk10.md",
+      "gemini_name": "files/102wny6377bl",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/102wny6377bl",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:50.313160+00:00"
+    },
+    {
+      "local_filename": "kiosk32.md",
+      "gemini_name": "files/qd5k3ts6xka6",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/qd5k3ts6xka6",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:45.452209+00:00"
+    },
+    {
+      "local_filename": "kiosk50.md",
+      "gemini_name": "files/jc44q46d8eck",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/jc44q46d8eck",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:17.467530+00:00"
+    },
+    {
+      "local_filename": "list-of-supported-cities-for-weather-wall-city-themes.md",
+      "gemini_name": "files/kvdq09wecmlu",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/kvdq09wecmlu",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:03.194585+00:00"
+    },
+    {
+      "local_filename": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration.md",
+      "gemini_name": "files/n3294bvqwgc3",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/n3294bvqwgc3",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:40.209649+00:00"
+    },
+    {
+      "local_filename": "operational-schedule-troubleshooting.md",
+      "gemini_name": "files/mbcd60xv8yhh",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/mbcd60xv8yhh",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:54.222418+00:00"
+    },
+    {
+      "local_filename": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
+      "gemini_name": "files/bzuskh9oywmw",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/bzuskh9oywmw",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:39.811279+00:00"
+    },
+    {
+      "local_filename": "optisigns-getting-started-guide.md",
+      "gemini_name": "files/2d7upbe21dt2",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/2d7upbe21dt2",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:11.836257+00:00"
+    },
+    {
+      "local_filename": "optisigns-pro-player-advanced-features.md",
+      "gemini_name": "files/5mu5bcn43baw",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/5mu5bcn43baw",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:29.944713+00:00"
+    },
+    {
+      "local_filename": "optistick-troubleshooting-guide.md",
+      "gemini_name": "files/aqfj2oqip5if",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/aqfj2oqip5if",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:00.016177+00:00"
+    },
+    {
+      "local_filename": "optistick.md",
+      "gemini_name": "files/h1z1y8s0hgnu",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/h1z1y8s0hgnu",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:02.670886+00:00"
+    },
+    {
+      "local_filename": "pre-configure-wi-fi-with-optisigns-devices.md",
+      "gemini_name": "files/84ik3otv5ood",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/84ik3otv5ood",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:45.734970+00:00"
+    },
+    {
+      "local_filename": "promax.md",
+      "gemini_name": "files/7xnzzq8j1yom",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/7xnzzq8j1yom",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:23.825517+00:00"
+    },
+    {
+      "local_filename": "proplayer.md",
+      "gemini_name": "files/o2unvu4lglmh",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/o2unvu4lglmh",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:34.947373+00:00"
+    },
+    {
+      "local_filename": "roku-release-notes-limitation.md",
+      "gemini_name": "files/48p3l7hi08by",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/48p3l7hi08by",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:29.173982+00:00"
+    },
+    {
+      "local_filename": "room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
+      "gemini_name": "files/4zm5v4szls1v",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/4zm5v4szls1v",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:28.256252+00:00"
+    },
+    {
+      "local_filename": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md",
+      "gemini_name": "files/qsnarjadvg23",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/qsnarjadvg23",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:00.144685+00:00"
+    },
+    {
+      "local_filename": "shapes-and-elements.md",
+      "gemini_name": "files/ojly8kw9ypns",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/ojly8kw9ypns",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:14.518706+00:00"
+    },
+    {
+      "local_filename": "synchronized-playback-sync-play-feature.md",
+      "gemini_name": "files/06ss9v9c5sgn",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/06ss9v9c5sgn",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:57.469100+00:00"
+    },
+    {
+      "local_filename": "using-an-enterprise-network-8021x-with-optisigns.md",
+      "gemini_name": "files/z8ysteiar6hz",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/z8ysteiar6hz",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:04.185225+00:00"
+    },
+    {
+      "local_filename": "using-the-japan-earthquake-app.md",
+      "gemini_name": "files/pko1ijf7v3gn",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/pko1ijf7v3gn",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:24:28.511281+00:00"
+    },
+    {
+      "local_filename": "what-do-i-get-with-an-optisigns-free-plan.md",
+      "gemini_name": "files/s7tbd4vj6bly",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/s7tbd4vj6bly",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:48.218854+00:00"
+    },
+    {
+      "local_filename": "what-happen-if-internet-connection-is-lost.md",
+      "gemini_name": "files/bhifl9swzi8l",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/bhifl9swzi8l",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:52.665639+00:00"
+    },
+    {
+      "local_filename": "where-to-buy-optisigns-devices.md",
+      "gemini_name": "files/volr8wcqkj6a",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/volr8wcqkj6a",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:28:40.755556+00:00"
+    },
+    {
+      "local_filename": "whitelist-optisigns-ip-addresses-ports.md",
+      "gemini_name": "files/ctr5sbgbwo9g",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/ctr5sbgbwo9g",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:25:25.672567+00:00"
+    },
+    {
+      "local_filename": "why-does-my-screen-show-as-offline-on-the-web-portal.md",
+      "gemini_name": "files/8x4tiqa63wze",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/8x4tiqa63wze",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:06.804286+00:00"
+    },
+    {
+      "local_filename": "widgets-in-designer.md",
+      "gemini_name": "files/k82vipn2y50z",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/k82vipn2y50z",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:23.369534+00:00"
+    },
+    {
+      "local_filename": "working-with-teams-and-security-levels.md",
+      "gemini_name": "files/tnnr35s33qsm",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/tnnr35s33qsm",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:26:31.764653+00:00"
+    },
+    {
+      "local_filename": "your-facebook-page-doesnt-show-in-the-dropdown-list.md",
+      "gemini_name": "files/dxr9ltrk00kx",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/dxr9ltrk00kx",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:42.495049+00:00"
+    },
+    {
+      "local_filename": "your-templates.md",
+      "gemini_name": "files/0vkzkyqgwen5",
+      "display_name": null,
+      "uri": "https://generativelanguage.googleapis.com/v1beta/files/0vkzkyqgwen5",
+      "mime_type": "text/markdown",
+      "state": "FileState.ACTIVE",
+      "uploaded_at": "2026-07-04T08:27:18.134363+00:00"
+    }
+  ]
+}
